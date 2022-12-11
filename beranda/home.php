@@ -239,7 +239,7 @@
 
     <div class="m-5">
       <center>
-        <img src="/assets/img/tes1.png" width="550" height="400" class="img-fluid ms-5" alt="...">
+        <img src="/assets/img/" width="550" height="400" class="img-fluid ms-5" alt="...">
         <img src="/assets/img/tes1.png" width="550" height="400" class="img-fluid ms-5" alt="...">
       </center>
     </div>

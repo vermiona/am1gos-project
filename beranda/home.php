@@ -101,6 +101,7 @@
 
           <div class="container">
             <div class="container">
+              <img src="/assets/img/img-header.jpeg" alt="" srcset="">
               <div class="carousel-caption text-start">
                 <h1>Selamat Datang.</h1>
                 <p>Selamat datang di Official Website Sekolah PAUD AL - FAZIR, yang merupakan wujud dari kesungguhan

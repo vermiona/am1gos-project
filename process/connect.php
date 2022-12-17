@@ -1,6 +1,7 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "", "amigos");
+    $conn = mysqli_connect("localhost", "root", "", "absen_daftar");
+    // Check connection
     if (!$conn) {
-        "Gagal Koneksi";
+        die("Koneksi gagal: " . mysqli_connect_error());
     }
 ?>

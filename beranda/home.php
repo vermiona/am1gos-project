@@ -181,7 +181,6 @@
             <title>Placeholder</title>
             <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text>
           </svg>
-
         </div>
       </div>
 

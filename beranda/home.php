@@ -63,7 +63,6 @@
   </style>
 
 
-  <!-- Custom styles for this template -->
   <link href="../assets/css/carousel.css" rel="stylesheet">
 </head>
 
@@ -101,7 +100,7 @@
 
           <div class="container">
             <div class="container">
-              <img src="/assets/img/img-header.jpeg" alt="" srcset="">
+              <img src="../assets/img/taman.jpeg" width="200" alt="" srcset="">
               <div class="carousel-caption text-start">
                 <h1>Selamat Datang.</h1>
                 <p>Selamat datang di Official Website Sekolah PAUD AL - FAZIR, yang merupakan wujud dari kesungguhan
@@ -155,13 +154,8 @@
     </div>
 
 
-    <!-- Marketing messaging and featurettes
-  ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
-
-      <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
 
@@ -232,9 +226,7 @@
 
       <hr class="featurette-divider">
 
-      <!-- /END THE FEATURETTES -->
-
-    </div><!-- /.container -->
+    </div>
 
     <div class="m-5">
       <center>
